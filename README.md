@@ -1,9 +1,6 @@
 # livecoding2
-## a test repo
+## a repo that contains notebooks: 
+- notes from fastai lessons, 
+- training notebooks from fastai course 
+- notes from livecoding sessions
 
-another paragraph
-
-here you explain:
-- one
-- two
-- three
