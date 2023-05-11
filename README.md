@@ -1,4 +1,4 @@
-# livecoding2
+# livecoding_fastai
 ## a repo that contains notebooks: 
 - notes from fastai lessons, 
 - training notebooks from fastai course 
